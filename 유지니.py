@@ -3,7 +3,7 @@ from PIL import Image
 import random
 
 st.set_page_config(
-    page_title="짱구미 + 표독미 분석기",
+    page_title="유진이의 짱구미 + 표독미 분석기",
     page_icon="🐶"
 )
 
